@@ -9,6 +9,7 @@
 ```shell
 $ git clone sajadice/pig_dice
 $ cd pig_dice
+$ python pig_dice.py
 ```
 
 ## Installation
